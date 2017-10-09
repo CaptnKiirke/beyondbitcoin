@@ -11,6 +11,9 @@ A technology where all transactions are logged to a distributed ledger.
 
 ## Currency
 
+##dApp
+decentralized applications
+
 ## Ether.
 
 ## Ethereum
