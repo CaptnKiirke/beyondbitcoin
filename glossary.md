@@ -20,6 +20,7 @@ A technology where all transactions are logged to a distributed ledger.
 ## Ledger
 
 ## Geth
+geth is the the command line interface for running a full ethereum node implemented in Go. It is the main deliverable of the Frontier Release
 
 ## Gas
 Gas is the internal pricing for running a transaction or contract in Ethereum
