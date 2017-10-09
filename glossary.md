@@ -22,6 +22,7 @@ A technology where all transactions are logged to a distributed ledger.
 ## Geth
 
 ## Gas
+Gas is the internal pricing for running a transaction or contract in Ethereum
 
 ## Hash Function
 
