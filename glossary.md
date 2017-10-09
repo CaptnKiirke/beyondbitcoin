@@ -38,6 +38,7 @@ Gas is the internal pricing for running a transaction or contract in Ethereum
 ## Distributed Architecture
 
 ## Proof of Work
+distributed trustless consensus and solves the double-spend problem
 
 ## Solidity
 it is a purposefully slimmed down, loosely-typed language with a syntax very similar to ECMAScript (Javascript).
