@@ -48,5 +48,5 @@ it is a purposefully slimmed down, loosely-typed language with a syntax very sim
 
 ## Single Source of Truth
 
-## Smart Contracts 
+## Smart Contracts  
 
